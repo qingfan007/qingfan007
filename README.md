@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**qingfan007/qingfan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Crystal, a backend engineer focused on API integrations, workflow-heavy backend systems, and data reliability.
 
-Here are some ideas to get you started:
+I write about backend systems, API integrations, workflow design, and product-minded engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+
+[Medium](https://medium.com/@crystalhyomin) - my writing on software, systems, and product-minded engineering
+
+## Contact
+
+[Email](mailto:crystalhyomin@gmail.com) - crystalhyomin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/crystal-zhu-640230281/) - contact me here
